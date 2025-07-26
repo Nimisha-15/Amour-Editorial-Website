@@ -1,7 +1,8 @@
 {
-
-  "devDependencies": {
-    "@types/aos": "^3.0.7"
+"devDependencies": {
+  "@types/node": "^20.0.0",
+  "eslint": "^8.0.0"
+}
   }
 
   "name": "amour-editorial-website",
